@@ -1,1 +1,1 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/vikpanther?theme=light,dark&extension=activity)
+![LeetCode](https://leetcard.jacoblin.cool/vikpanther?theme=transparent)
