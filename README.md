@@ -1,2 +1,1 @@
-
-<img src="https://leetcard.jacoblin.cool/vikpanther?ext=heatmap&theme=transparent" width="450">
+![Terminal GIF](https://raw.githubusercontent.com/VikShah/gif-terminal/main/output.gif)
